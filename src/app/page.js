@@ -164,7 +164,7 @@ export default function Home() {
                   ))
                 ) : (
                   <div className="font-montserrat text-gray-600 text-center pt-4">
-                    don't you got anything to done?
+                    don`t you got anything to done?
                   </div>
                 )}
               </section>

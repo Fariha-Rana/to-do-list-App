@@ -131,6 +131,7 @@ export default function Home() {
               <form className="flex flex-row">
                 <input
                   type="text"
+                  placeholder="example - Meeting at 9am on thursday"
                   className="input input-bordered w-3/4 input-md font-montserrat ml-3"
                   onChange={(e) => {
                     setInput(e.target.value);
